@@ -1,0 +1,4 @@
+02:47:28.641 [main] DEBUG org.example.LoggingExample - Debug message
+02:47:28.646 [main] INFO  org.example.LoggingExample - Information message
+02:47:28.648 [main] WARN  org.example.LoggingExample - Warning message
+02:47:28.648 [main] ERROR org.example.LoggingExample - Error message

@@ -1,0 +1,1 @@
+Microservices Composite Hands-on project skeleton: account-service, loan-service, eureka-discovery-server, greet-service, api-gateway.

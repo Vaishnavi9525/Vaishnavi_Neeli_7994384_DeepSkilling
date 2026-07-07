@@ -1,0 +1,1 @@
+Skeleton project generated from uploaded API Gateway hands-on PDF.

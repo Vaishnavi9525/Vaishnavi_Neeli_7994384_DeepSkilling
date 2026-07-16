@@ -1,0 +1,20 @@
+.mydiv{
+    text-align:center;
+}
+
+h1{
+    color:green;
+}
+
+table{
+    margin:auto;
+    border-collapse:collapse;
+}
+
+th{
+    color:green;
+}
+
+td,th{
+    padding:5px;
+}

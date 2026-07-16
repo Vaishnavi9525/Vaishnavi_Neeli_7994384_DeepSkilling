@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-left: 10px;
+}
+
+.cohort-card {
+    width: 300px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
